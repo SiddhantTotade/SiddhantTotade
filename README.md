@@ -6,6 +6,17 @@
 
 <div align="center">
 
+![GitHub followers](https://img.shields.io/github/followers/siddhanttotade?style=social)
+
+[![Twitter](https://img.shields.io/twitter?style=social)](https://twitter.com/Siddhan81961130)
+[![Twitter](https://img.shields.io/twitter/follow/Siddhan81961130?style=social)](https://twitter.com/Siddhan81961130)
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FSiddhan81961130)
+
+</div>
+
+<div align="center">
+
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
