@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/twitter?style=social)](https://twitter.com/Siddhan81961130)
 [![Twitter](https://img.shields.io/twitter/follow/Siddhan81961130?style=social)](https://twitter.com/Siddhan81961130)
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FSiddhan81961130)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/Siddhan81961130)
 
 </div>
 
