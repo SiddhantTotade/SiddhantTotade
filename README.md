@@ -6,6 +6,10 @@
 
 <div align="center">
 
+![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/0-profile-details.svg)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddhantTotade&background=1d1333&ring=ed0950&fire=ed0950&currStreakNum=fffb00&sideNums=8103ff&currStreakLabel=fffb00&sideLabels=00fc0d&border=00a0fc&stroke=00a0fc&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
+
