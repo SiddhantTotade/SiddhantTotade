@@ -5,6 +5,12 @@
 <h1 align="center">Hi, I'm Siddhant Totade  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
 <div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/SiddhantTotade?logoColor=26132e&style=social)
+  
+</div>
+
+<div align="center">
 
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
