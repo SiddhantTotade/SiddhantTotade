@@ -12,14 +12,14 @@ I am Siddhant Totade. I am a Coder and a Full Stack Web Developer. Currently I a
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="35"/>
 
 ## Development
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery,canva" height="35"/>
+  * **Frontend** 
+     # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery,canva" height="35"/>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/>
+  * **Backend**
+     # <img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/>
 
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/>
+  * **Database**
+     # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/>
 
 ## Editors
 <img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="35"/>
