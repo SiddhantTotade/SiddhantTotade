@@ -5,13 +5,8 @@
 <h1 align="center">Hi, I'm Siddhant Totade  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
 <div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/siddhanttotade?style=social)
-
-[![Twitter](https://img.shields.io/twitter?style=social)](https://twitter.com/Siddhan81961130)
-[![Twitter](https://img.shields.io/twitter/follow/Siddhan81961130?style=social)](https://twitter.com/Siddhan81961130)
-
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/Siddhan81961130)
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Siddhan81961130)
 
 </div>
 
