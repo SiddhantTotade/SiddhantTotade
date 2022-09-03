@@ -4,8 +4,28 @@
 
 <h1 align="center">Hi, I'm Siddhant Totade  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
-<h1> <img src="https://github.com/SiddhantTotade/SiddhantTotade/blob/main/person.png" height="120"> About Me</h1>  
+## About Me <img src="https://github.com/SiddhantTotade/SiddhantTotade/blob/main/person.png" height="110">
 I am Siddhant Totade. I am a Coder and a Full Stack Web Developer. Currently I am pursuing B.Tech in Computer Science Engineering and also lifting my steps towards Web Technology and Designing. I am creative and enthusiastic about new technologies and apply them to create or improve things and also love to work on new ideas and projects. I love to know about people and their profession that helps me to develop different perspective.
+
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="35"/>
+
+## Development
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery,canva" height="35"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/>
+
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/>
+
+## Editors
+<img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="35"/>
+
+## OS
+<img src="https://skillicons.dev/icons?i=linux" height="35"/>
 
 <div align="center">
 
