@@ -4,9 +4,10 @@
 
 <h1 align="center">Hi, I'm Siddhant Totade  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
+## About Me
+I am Siddhant Totade. I am a Coder and a Full Stack Web Developer. Currently I am pursuing B.Tech in Computer Science Engineering and also lifting my steps towards Web Technology and Designing. I am creative and enthusiastic about new technologies and apply them to create or improve things and also love to work on new ideas and projects. I love to know about people and their profession that helps me to develop different perspective.
+
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-totade-0969351b8/)        [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/coldplay_1994)        [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Siddhan81961130)
 
 </div>
 
