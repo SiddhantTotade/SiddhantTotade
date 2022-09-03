@@ -4,9 +4,17 @@
 
 <h1 align="center">Hi, I'm Siddhant Totade  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
-## About Me <img src="https://github.com/SiddhantTotade/SiddhantTotade/blob/main/person.png" height="110">
-I am Siddhant Totade. I am a Coder and a Full Stack Web Developer. Currently I am pursuing B.Tech in Computer Science Engineering and also lifting my steps towards Web Technology and Designing. I am creative and enthusiastic about new technologies and apply them to create or improve things and also love to work on new ideas and projects. I love to know about people and their profession that helps me to develop different perspective.
+## About Me &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285964-2e1367a0-36eb-468a-8687-46e9e2a00d14.png" height="60">
 
+* Coder and Full Stack Web Developer. &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285271-b8210d6f-5b66-45a8-9290-14d091d8180c.png" height="25">
+
+* Creative and Enthusiatic about new technologies. &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285572-ecac154d-1320-46b4-ae30-6661f8094926.png" height="25">
+
+* Love to work on new ideas and projects. &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285663-929ad4d1-6dc3-44d5-b157-da2b7339750c.png" height="28">
+
+* Love to know about people and about their profession that helps me to develop different perspective on different domain. &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285777-df45c5bf-9c0d-462d-b839-df9c4e5b01dd.png" height="28">
+
+* BeatBoxer and love music &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285849-4932ae19-731d-4f40-ad7b-28d5879f790a.png" height="28">
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="35"/>
