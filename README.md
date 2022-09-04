@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="35"/>
 
 ## OS
-<img src="https://skillicons.dev/icons?i=linux" height="35"/>
+<img src="https://user-images.githubusercontent.com/80762775/188300577-57f18d99-033e-4d84-bd83-6b71d9852336.png" height="35"> &nbsp;<img src="https://skillicons.dev/icons?i=linux" height="35"/>
 
 <div align="center">
 
