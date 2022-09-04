@@ -38,13 +38,16 @@
 
 ## Development
   * **Frontend** 
-     # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery,canva" height="35"/>
+     # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery" height="35"/>
 
   * **Backend**
      # <img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/>
 
   * **Database**
      # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/>
+     
+  * **Deployment**
+     # <img src="https://skillicons.dev/icons?i=heroku,netlify,github,firebase" height="35"/>
 
 ## Editors
 <img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="35"/>
