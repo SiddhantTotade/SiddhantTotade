@@ -22,7 +22,8 @@
 
 * BeatBoxer and love music &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285849-4932ae19-731d-4f40-ad7b-28d5879f790a.png" height="28">
 
-## Github Summary
+## Github Summary &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301483-776e696c-4a97-48f9-a124-61681df4c617.png" height="25">
+
 <div align="center">
   
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
