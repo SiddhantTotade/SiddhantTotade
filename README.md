@@ -33,26 +33,30 @@
   
 </div>
 
-## Programming Languages
+## Programming Languages &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300871-e5a651dc-5686-4130-9cde-91ccf099de95.png" height="25">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="35"/>
 
-## Development
-  * **Frontend** 
+## Development &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300932-782b8461-34be-42c3-a2aa-1df9ab8e5b10.png" height="25">
+
+  * ***Frontend*** 
      # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery" height="35"/>
 
-  * **Backend**
+  * ***Backend***
      # <img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/>
 
-  * **Database**
+  * ***Database***
      # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/>
      
-  * **Deployment**
+  * ***Deployment***
      # <img src="https://skillicons.dev/icons?i=heroku,netlify,github,firebase" height="35"/>
 
-## Editors
+## Editors &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301014-bdb27d4c-945c-4cee-872b-41035372986d.png" height="25">
+
 <img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="35"/>
 
-## OS
+## OS &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301066-71f97fd4-c87a-4e5e-bf94-50df74ec7ebd.png" height="25">
+
 <img src="https://user-images.githubusercontent.com/80762775/188300577-57f18d99-033e-4d84-bd83-6b71d9852336.png" height="35"> &nbsp;<img src="https://skillicons.dev/icons?i=linux" height="35"/>
 
 <div align="center">
