@@ -23,17 +23,29 @@
 * BeatBoxer and love music &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285849-4932ae19-731d-4f40-ad7b-28d5879f790a.png" height="28">
 
 ## Github Summary &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301483-776e696c-4a97-48f9-a124-61681df4c617.png" height="25">
+<details>
+    <summary>Contribution and Repositories</summary>
+<div align="center">
 
+[![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</details>
+
+<details>
+    <summary>Repo Stats</summary>
 <div align="center">
   
-[![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
+</details>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhanttotade&background=141321&ring=ed0950&fire=ed0950&currStreakNum=fffb00&sideNums=8103ff&currStreakLabel=fffb00&sideLabels=00fc0d&border=141321&stroke=00a0fc&dates=ffffff)](https://git.io/streak-stats)
-
-[![Siddhant](https://activity-graph.herokuapp.com/graph?username=siddhanttotade&bg_color=141321&hide_border=true&theme=tokyo-night&line=5C5CFF&point=FFFFFF&color=ed0950&title_color=ed0950)](https://github.com/siddhanttotade/github-readme-activity-graph)
+<details>
+    <summary>Streaks</summary>
+<div align="center">
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhanttotade&background=141321&ring=ed0950&fire=ed0950&currStreakNum=fffb00&sideNums=8103ff&currStreakLabel=fffb00&sideLabels=00fc0d&border=141321&stroke=00a0fc&dates=ffffff)](https://git.io/streak-stats)
+</div>
+</details>
 </div>
 
 ## Programming Languages &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300871-e5a651dc-5686-4130-9cde-91ccf099de95.png" height="25">
