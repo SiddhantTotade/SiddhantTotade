@@ -31,6 +31,8 @@
 [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![image](https://github.com/SiddhantTotade/SiddhantTotade/blob/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhanttotade&background=141321&ring=ed0950&fire=ed0950&currStreakNum=fffb00&sideNums=8103ff&currStreakLabel=fffb00&sideLabels=00fc0d&border=141321&stroke=00a0fc&dates=ffffff)](https://git.io/streak-stats)
+
+[![Siddhant](https://activity-graph.herokuapp.com/graph?username=siddhanttotade&bg_color=141321&hide_border=true&theme=tokyo-night&line=5C5CFF&point=FFFFFF&color=ed0950&title_color=ed0950)](https://github.com/siddhanttotade/github-readme-activity-graph)
   
 </div>
 
