@@ -2,7 +2,12 @@
   <img src="https://github.com/SiddhantTotade/SiddhantTotade/blob/main/UniQue%20in%20ME%2C%20UniQue%20I%20AM.gif"> 
 </div>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I'm Siddhant Totade </h1>
+[//]: <> (<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I'm Siddhant Totade </h1>)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+REALM;Hi+I'm+Siddhant+Totade;&color=ed0950&center=True)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
   
