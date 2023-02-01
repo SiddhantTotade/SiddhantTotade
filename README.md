@@ -23,8 +23,6 @@
 
 * Love to work on new ideas and projects. &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285663-929ad4d1-6dc3-44d5-b157-da2b7339750c.png" height="28">
 
-* Love to know about people and about their profession that helps me to develop different perspective on different domain. &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285777-df45c5bf-9c0d-462d-b839-df9c4e5b01dd.png" height="28">
-
 * BeatBoxer and love music &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285849-4932ae19-731d-4f40-ad7b-28d5879f790a.png" height="28">
 
 ## Github Summary &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301483-776e696c-4a97-48f9-a124-61681df4c617.png" height="25">
