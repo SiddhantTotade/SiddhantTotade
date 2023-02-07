@@ -59,7 +59,7 @@
 ## Development &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300932-782b8461-34be-42c3-a2aa-1df9ab8e5b10.png" height="25">
 
   * ***Frontend*** 
-     # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,jquery" height="35"/>
+     # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,jquery" height="35"/>
 
   * ***Backend***
      # <img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/>
