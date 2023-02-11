@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+REALM;Hii+I'm+Siddhant+Totade;&color=ed0950&center=True)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+REALM;Hii...+I'm+Siddhant+Totade;&color=ed0950&center=True)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
