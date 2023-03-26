@@ -25,7 +25,7 @@
 
 * BeatBoxer and love music &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285849-4932ae19-731d-4f40-ad7b-28d5879f790a.png" height="28">
 
-## Github Summary &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301483-776e696c-4a97-48f9-a124-61681df4c617.png" height="25">
+## Github Summary &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301483-776e696c-4a97-48f9-a124-61681df4c617.png" height="45">
 <details>
     <summary>Contribution and Repositories</summary>
 <div align="center">
@@ -52,7 +52,7 @@
 </details>
 </div>
 
-## Programming Languages &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300871-e5a651dc-5686-4130-9cde-91ccf099de95.png" height="25">
+## Programming Languages &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300871-e5a651dc-5686-4130-9cde-91ccf099de95.png" height="45">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="35"/>
 
