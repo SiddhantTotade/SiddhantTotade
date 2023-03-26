@@ -15,7 +15,7 @@
   
 </div>
 
-## About Me &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285964-2e1367a0-36eb-468a-8687-46e9e2a00d14.png" height="60">
+## About Me &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285964-2e1367a0-36eb-468a-8687-46e9e2a00d14.png" height="50">
 
 * Coder and Full Stack Web Developer. &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285271-b8210d6f-5b66-45a8-9290-14d091d8180c.png" height="25">
 
@@ -25,7 +25,7 @@
 
 * BeatBoxer and love music &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285849-4932ae19-731d-4f40-ad7b-28d5879f790a.png" height="28">
 
-## Github Summary &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301483-776e696c-4a97-48f9-a124-61681df4c617.png" height="45">
+## Github Summary &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301483-776e696c-4a97-48f9-a124-61681df4c617.png" height="30">
 <details>
     <summary>Contribution and Repositories</summary>
 <div align="center">
@@ -52,11 +52,11 @@
 </details>
 </div>
 
-## Programming Languages &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300871-e5a651dc-5686-4130-9cde-91ccf099de95.png" height="45">
+## Programming Languages &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300871-e5a651dc-5686-4130-9cde-91ccf099de95.png" height="30">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="35"/>
 
-## Development &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300932-782b8461-34be-42c3-a2aa-1df9ab8e5b10.png" height="25">
+## Development &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300932-782b8461-34be-42c3-a2aa-1df9ab8e5b10.png" height="30">
 
   * ***Frontend*** 
      # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,jquery" height="35"/>
@@ -72,11 +72,11 @@
 
 ## Editors &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301014-bdb27d4c-945c-4cee-872b-41035372986d.png" height="25">
 
-<img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="35"/>
+<img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="30"/>
 
 ## OS &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301066-71f97fd4-c87a-4e5e-bf94-50df74ec7ebd.png" height="25">
 
-<img src="https://user-images.githubusercontent.com/80762775/188300577-57f18d99-033e-4d84-bd83-6b71d9852336.png" height="35"> &nbsp;<img src="https://skillicons.dev/icons?i=linux" height="35"/>
+<img src="https://user-images.githubusercontent.com/80762775/188300577-57f18d99-033e-4d84-bd83-6b71d9852336.png" height="35"> &nbsp;<img src="https://skillicons.dev/icons?i=linux" height="30"/>
 
 <div align="center">
 
