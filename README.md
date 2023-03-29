@@ -72,11 +72,11 @@
 
 ## Editors &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301014-bdb27d4c-945c-4cee-872b-41035372986d.png" height="25">
 
-<img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="30"/>
+<img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="35"/>
 
 ## OS &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301066-71f97fd4-c87a-4e5e-bf94-50df74ec7ebd.png" height="25">
 
-<img src="https://user-images.githubusercontent.com/80762775/188300577-57f18d99-033e-4d84-bd83-6b71d9852336.png" height="35"> &nbsp;<img src="https://skillicons.dev/icons?i=linux" height="30"/>
+<img src="https://user-images.githubusercontent.com/80762775/188300577-57f18d99-033e-4d84-bd83-6b71d9852336.png" height="37"> &nbsp;<img src="https://skillicons.dev/icons?i=linux" height="37"/>
 
 <div align="center">
 
