@@ -72,7 +72,7 @@
 
 ## Editors &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301014-bdb27d4c-945c-4cee-872b-41035372986d.png" height="25">
 
-<img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="35"/>
+<img src="https://skillicons.dev/icons?i=vscode,vim,bash" height="37"/>
 
 ## OS &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301066-71f97fd4-c87a-4e5e-bf94-50df74ec7ebd.png" height="25">
 
