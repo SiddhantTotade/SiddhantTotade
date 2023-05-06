@@ -68,7 +68,7 @@
      # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/>
      
   * ***Deployment***
-     # <img src="https://skillicons.dev/icons?i=heroku,netlify,github,firebase" height="35"/>
+     # <img src="https://skillicons.dev/icons?i=heroku,netlify,github,firebase,docker" height="35"/>
 
 ## Editors &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301014-bdb27d4c-945c-4cee-872b-41035372986d.png" height="25">
 
