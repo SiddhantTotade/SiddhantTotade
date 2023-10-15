@@ -58,17 +58,22 @@
 
 ## Development &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188300932-782b8461-34be-42c3-a2aa-1df9ab8e5b10.png" height="30">
 
-  * ***Frontend*** 
-     # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,jquery,materialui" height="35"/>
+| Frontend | Backend | Database | Deployment |
+| :---: | :---: | :---: |  :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,jquery,materialui" height="35"/> | <img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/> | <img src="https://skillicons.dev/icons?i=heroku,netlify,github,firebase,docker" height="35"/> |
 
-  * ***Backend***
-     # <img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/>
 
-  * ***Database***
-     # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/>
+[//]:  # (* ***Frontend***) 
+[//]:  # (  # <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,jquery,materialui" height="35"/>)
+
+[//]:  # (* ***Backend***)
+[//]:  # ( # <img src="https://skillicons.dev/icons?i=django,php,nodejs" height="35"/>)
+
+[//]:  # (* ***Database***)
+[//]:  # ( # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="35"/>)
      
-  * ***Deployment***
-     # <img src="https://skillicons.dev/icons?i=heroku,netlify,github,firebase,docker" height="35"/>
+[//]:  # (* ***Deployment***)
+[//]:  # ( # <img src="https://skillicons.dev/icons?i=heroku,netlify,github,firebase,docker" height="35"/>)
 
 ## Editors &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188301014-bdb27d4c-945c-4cee-872b-41035372986d.png" height="25">
 
