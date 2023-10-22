@@ -1,3 +1,6 @@
+<div align="end">
+</div>
+
 [//]: # (<div align="center">)
 [//]: # (<img src="https://github.com/SiddhantTotade/SiddhantTotade/blob/main/UniQue%20in%20ME%2C%20UniQue%20I%20AM.gif">)
 [//]: # (</div>)
@@ -12,7 +15,16 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-totade-0969351b8/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/455511818190979072) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Siddhan81961130) &nbsp; [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/coldplay_1994)
-  
+</div>
+
+## Tech Stack
+<div style="display: flex; gap: 20px;" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,redux,materialui,tailwindcss,django,heroku,netlify" height="35"/>
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="200" height="180">
 </div>
 
 ## About Me &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285964-2e1367a0-36eb-468a-8687-46e9e2a00d14.png" height="50">
