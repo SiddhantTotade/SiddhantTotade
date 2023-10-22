@@ -5,7 +5,7 @@
 
 ## Tech Stack
 <div style="display: flex; gap: 20px;" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,redux,materialui,tailwindcss,django,sqlite,postgresql,mysql,heroku,netlify" height="35"/>
+    <img align="center" src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,redux,materialui,tailwindcss,django,sqlite,postgresql,mysql,heroku,netlify" height="30"/>
     &nbsp;
     &nbsp;
     &nbsp;
