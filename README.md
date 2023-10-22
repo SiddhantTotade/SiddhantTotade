@@ -1,6 +1,6 @@
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-totade-0969351b8/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/455511818190979072) &nbsp; [![Resume](https://img.shields.io/badge/Resume-0170FE?style=for-the-badge&logo=googledocs&logoColor=white)]() &nbsp; 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-totade-0969351b8/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/455511818190979072) &nbsp; [![Resume](https://img.shields.io/badge/Resume-0170FE?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1t1ZgsDEIZQyzkk9H1dhJbJIiZYGjuS2d/view?usp=share_link) &nbsp; 
 </div>
 
 ## Tech Stack
