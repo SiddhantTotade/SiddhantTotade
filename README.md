@@ -5,12 +5,16 @@
 
 ## Tech Stack
 <div style="display: flex; gap: 50px;" align="center">
+  <div>
     <img align="center" src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,redux,materialui,tailwindcss,django,sqlite,postgresql,mysql,docker,kubernetes" height="40"/>
     &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
+  </div>
+  <div>
     <img align="center" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="200" height="180">
+  </div>
 </div>
 
 ## About Me &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285964-2e1367a0-36eb-468a-8687-46e9e2a00d14.png" height="50">
