@@ -4,7 +4,7 @@
 </div>
 
 ## Tech Stack
-<div style="display: flex; gap: 20px;" align="center">
+<div style="display: flex; gap: 50px;" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,redux,materialui,tailwindcss,django,sqlite,postgresql,mysql,docker,kubernetes" height="40"/>
     &nbsp;
     &nbsp;
