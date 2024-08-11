@@ -4,7 +4,7 @@
 </div>
 
 ## Tech Stack
-<img align="center" display="flex" src="https://skillicons.dev/icons?i=cpp,python,django,react,redux,js,ts,materialui,tailwindcss,css,sass,sqlite,postgresql,mysql,docker,kubernetes" height="60"/>
+<img width="100%" align="center" src="https://skillicons.dev/icons?i=cpp,python,django,react,redux,js,ts,materialui,tailwindcss,css,sass,sqlite,postgresql,mysql,docker,kubernetes" height="70"/>
 
 ## About Me &nbsp; <img src="https://user-images.githubusercontent.com/80762775/188285964-2e1367a0-36eb-468a-8687-46e9e2a00d14.png" height="50">
 
