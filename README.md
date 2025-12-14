@@ -1,8 +1,3 @@
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-totade-0969351b8/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/455511818190979072) &nbsp; [![Resume](https://img.shields.io/badge/Resume-0170FE?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1PbBobCLR98SFefAMS4pWugWcHi42Kzuy/view?usp=drive_link) &nbsp; 
-</div>
-
 ## Tech Stack
 <img width="100%" align="center" src="https://skillicons.dev/icons?i=cpp,python,django,react,redux,js,ts,materialui,tailwindcss,html,css,sass,sqlite,postgresql,mysql,docker,kubernetes" height="70"/>
 
